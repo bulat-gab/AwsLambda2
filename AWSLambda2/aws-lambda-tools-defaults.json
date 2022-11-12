@@ -12,5 +12,6 @@
   "function-memory-size": 256,
   "function-timeout": 30,
   "function-handler": "AWSLambda2::AWSLambda2.Function::FunctionHandler",
-  "function-name": "myproject-awslambda2"
+  "function-name": "myproject-awslambda2",
+  "function-role": "my-project-awslambda2-function-role"
 }
